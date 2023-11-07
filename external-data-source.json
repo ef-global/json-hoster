@@ -1,18 +1,18 @@
 [
   {
-    "key": "Option 0",
+    "name": "Option 0",
     "value": "option-0"
   },
   {
-    "key": "Option 1",
+    "name": "Option 1",
     "value": "option-1"
   },
   {
-    "key": "Option 2",
+    "name": "Option 2",
     "value": "option-2"
   },
   {
-    "key": "Option 3",
+    "name": "Option 3",
     "value": "option-3"
   }
 ]
